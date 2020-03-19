@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Estevão Vilela"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/profile_picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Belo Horizonte, MG"
   email            :
