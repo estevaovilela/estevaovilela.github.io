@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Data science"
     url: /data-science/
+  - title: "CV"
+    url: /files/CV_Estevao_Vilela_EN.pdf
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
