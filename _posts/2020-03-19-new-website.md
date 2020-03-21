@@ -1,6 +1,7 @@
 ---
 title: "Finally, a website"
 date: 2020-03-19
+tags: [data science]
 ---
 
 I started my journey in Data Science - didn't know what it was and don't know exactly what is today - back in the start of 2018. By recommendation of my friend and colleague [Arthur Cheib](https://twitter.com/arthurcheib) I subscribed to [DataCamp Platform](https://www.datacamp.com/).
